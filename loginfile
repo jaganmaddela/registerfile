@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>tlogin file</title>
+    </head>
+    <body bgcolor="yellow">
+        <form>
+            <h1>making form of tyoes of attribute</h1>
+               <label for="name">login file:</label>
+               <input for="text" name="login">
+        </form>
+     
+    </body>
+</html>
